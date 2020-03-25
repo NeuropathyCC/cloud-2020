@@ -1,0 +1,12 @@
+GET localhost:8002/consumer/payment/get/20200311
+
+###
+GET localhost:8002/consumer/payment/create?serial=cc5780@outlook.com
+
+###
+GET http://localhost:8001/payment/services
+
+###
+GET http://localhost:8003/payment/zk
+
+###
